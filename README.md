@@ -626,6 +626,22 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::resource('products', ProductController::class);
 ````
 
+- Now run the php atisan serve command
+
+````
+php artisan serve
+````
+
+
+- ✅ Thanks For watching if you Understand my explanation then support me and my youtube channel [AMK DEVELOPMENT](https://www.youtube.com/@amkdevelopment?sub_confirmation=1)
+
+```
+Email:    mohibulkhan15992@gmail.com
+Contact:  +917007192298
+````
+
+
+
 
 
 
